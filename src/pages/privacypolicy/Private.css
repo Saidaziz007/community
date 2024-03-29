@@ -1,0 +1,20 @@
+.private {
+  padding-top: 130px;
+  padding-bottom: 60px;
+}
+
+.private h1 {
+  color: #1d3444;
+  font-size: 45px;
+  padding-bottom: 20px;
+}
+
+.private p {
+  color: rgb(82, 82, 82);
+  padding-bottom: 30px;
+}
+
+.private h2 {
+  color: #1d3444;
+  padding-bottom: 20px;
+}

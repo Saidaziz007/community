@@ -1,0 +1,33 @@
+.inner-all {
+  padding-top: 130px;
+  padding-bottom: 40px;
+}
+
+.inner-img img {
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.inner-info-1 h1 {
+  color: #1d3444;
+  font-size: 50px;
+  line-height: 60px;
+  padding-bottom: 20px;
+}
+
+.inner-info-1 p {
+  color: grey;
+  padding-bottom: 30px;
+}
+
+.inner-info-top {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding-bottom: 20px;
+}
+
+.inner-info-top p {
+  padding-right: 15px;
+  padding-bottom: 0;
+}

@@ -1,0 +1,99 @@
+.careers {
+  padding-top: 100px;
+}
+
+.careers-top {
+  padding-bottom: 80px;
+}
+
+.careers-top h1 {
+  color: #1d3444;
+  font-size: 50px;
+}
+
+.careers-top-1 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+
+.careers-top-1-left h1,
+.careers-top-1-right h1 {
+  font-size: 22px;
+}
+
+.careers-top-1-left p {
+  max-width: 600px;
+}
+
+.careers-detail {
+  display: flex;
+  justify-content: space-between;
+  gap: 92px;
+  background-color: rgba(193, 228, 255, 0.3);
+  padding: 68px;
+  border-radius: 30px;
+}
+
+.careers-detail-left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.careers-detail-left h2 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.hh-22 {
+  color: rgba(245, 138, 7, 1);
+}
+
+.careers-detail-right {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.careers-detail-right p {
+  max-width: 800px;
+}
+
+.careers-bottom {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.careers-bottom h1 {
+  color: #1d3444;
+  font-size: 40px;
+  padding-bottom: 50px;
+}
+
+.careers-input {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.careers-input form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.careers-input form input {
+  background-color: rgba(210, 218, 237, 0.17);
+  padding: 17px 32px;
+  border: none;
+  border-radius: 30px;
+}
+
+.careers-input textarea {
+  padding: 17px 32px;
+  background-color: rgba(210, 218, 237, 0.17);
+  border: none;
+  border-radius: 30px;
+  resize: none;
+}
